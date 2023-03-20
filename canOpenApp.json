@@ -1,1 +1,14 @@
-{"is_take":1,"version_name":"3","is_force":1,"readme":"热更新测试","type":2,"version":3,"url":"http://app.szfuziyue.com/uploads/files/0f/89bc37bfcfeea2873d867307a1d173.apk"}
+{
+  "code" : "1",
+  "data" : {
+    "readme" : "1.图片处理增强，图片效率更高；rn2.优化链接性能，优化APP打印性能；rn3.修改相关BUG，增加用户体验。",
+    "is_take" : 1,
+    "version_name" : "2.0.10",
+    "is_force" : 1,
+    "version" : 134,
+    "type" : 1,
+    "url" : ""
+  },
+  "msg" : "请求成功",
+  "time" : 1679290616
+}
