@@ -1,0 +1,14 @@
+{
+  "code" : "1",
+  "data" : {
+    "readme" : "1.图片处理增强，图片效率更高；rn2.优化链接性能，优化APP打印性能；rn3.修改相关BUG，增加用户体验。",
+    "is_take" : 1,
+    "version_name" : "1.0.0",
+    "is_force" : 1,
+    "version" : 100,
+    "type" : 1,
+    "url" : "https://apps.apple.com/cn/app/id6446818009"
+  },
+  "msg" : "请求成功",
+  "time" : 1679290616
+}
